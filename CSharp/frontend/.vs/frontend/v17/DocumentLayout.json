@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\desktop\\neyd\\CSharp\\frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|d:\\desktop\\neyd\\csharp\\frontend\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|d:\\desktop\\neyd\\csharp\\frontend\\services\\resumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|solutionrelative:services\\resumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|d:\\desktop\\neyd\\csharp\\frontend\\resumelistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|solutionrelative:resumelistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|d:\\desktop\\neyd\\csharp\\frontend\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|d:\\desktop\\neyd\\csharp\\frontend\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|d:\\desktop\\neyd\\csharp\\frontend\\models\\resumequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|solutionrelative:models\\resumequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|d:\\desktop\\neyd\\csharp\\frontend\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|solutionrelative:models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|d:\\desktop\\neyd\\csharp\\frontend\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|d:\\desktop\\neyd\\csharp\\frontend\\resumelistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|solutionrelative:resumelistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|d:\\desktop\\neyd\\csharp\\frontend\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A559D31A-967D-40A6-9E28-0FB09635F334}|Frontend.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\desktop\\neyd\\CSharp\\frontend\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResumeQuery.cs",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\Models\\ResumeQuery.cs",
+              "RelativeDocumentMoniker": "Models\\ResumeQuery.cs",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\Models\\ResumeQuery.cs",
+              "RelativeToolTip": "Models\\ResumeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:14:47.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:59:32.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T18:53:50.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResumeListWindow.xaml.cs",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\ResumeListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ResumeListWindow.xaml.cs",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\ResumeListWindow.xaml.cs",
+              "RelativeToolTip": "ResumeListWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:15:12.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:53:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResumeService.cs",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\Services\\ResumeService.cs",
+              "RelativeDocumentMoniker": "Services\\ResumeService.cs",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\Services\\ResumeService.cs",
+              "RelativeToolTip": "Services\\ResumeService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx4AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:15:59.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:15:05.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "Models\\Resume.cs",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\Models\\Resume.cs",
+              "RelativeToolTip": "Models\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:14:40.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResumeListWindow.xaml",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\ResumeListWindow.xaml",
+              "RelativeDocumentMoniker": "ResumeListWindow.xaml",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\ResumeListWindow.xaml",
+              "RelativeToolTip": "ResumeListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T18:53:56.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T18:26:06.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "D:\\desktop\\neyd\\CSharp\\frontend\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ToolTip": "D:\\desktop\\neyd\\CSharp\\frontend\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAxwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:26:30.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
